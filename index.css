@@ -1,0 +1,16 @@
+Profile_Pic {float: right;
+}
+body {background-color: cornsilk;
+}
+h2 {color: #efeee7;
+    background-color: #333333;
+}
+.container {
+    width: 1024px;
+    margin: 0px;
+}
+
+#main-bio,
+#contact-info,
+#profile-pic {float: left;
+}
